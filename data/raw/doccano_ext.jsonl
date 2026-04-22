@@ -1,0 +1,5 @@
+{"id": 1, "text": "本课程为Java语言入门级教学，涵盖Java语法基础、面向对象编程、集合框架、异常处理等内容。通过大量实例讲解帮助学员快速掌握Java开发的基本技能。", "entities": [{"id": 1, "label": "KP", "start_offset": 4, "end_offset": 12}, {"id": 2, "label": "KP", "start_offset": 18, "end_offset": 26}, {"id": 3, "label": "KP", "start_offset": 27, "end_offset": 33}], "relations": []}
+{"id": 2, "text": "讲解Maven项目构建工具的核心使用方法，包括依赖管理、项目结构、插件配置、多模块项目构建等内容，提升Java项目的开发效率与规范性。", "entities": [{"id": 4, "label": "KP", "start_offset": 2, "end_offset": 11}], "relations": []}
+{"id": 3, "text": "深入讲解MyBatis持久层框架的使用，包括XML配置、注解方式、动态SQL、缓存机制等，实现数据库操作的灵活控制。", "entities": [{"id": 5, "label": "KP", "start_offset": 4, "end_offset": 19}], "relations": []}
+{"id": 4, "text": "从零开始系统讲解Redis数据类型、持久化机制、事务、发布订阅、集群部署等核心知识点，并结合电商秒杀场景进行实战演练。", "entities": [{"id": 6, "label": "KP", "start_offset": 8, "end_offset": 17}], "relations": []}
+{"id": 5, "text": "全面讲解Spring框架核心功能，包括IoC容器、AOP编程、事务管理、整合其他组件等，奠定Java企业级开发基础。", "entities": [{"id": 7, "label": "KP", "start_offset": 4, "end_offset": 16}], "relations": []}

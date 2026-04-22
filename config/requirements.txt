@@ -1,0 +1,35 @@
+# AI智教大模型项目依赖
+
+# Web框架
+fastapi>=0.100.0
+uvicorn[standard]>=0.20.0
+
+# 大模型框架
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-openai>=0.0.5
+langchain-deepseek>=0.1.0
+langchain-neo4j>=0.1.0
+langchain-huggingface>=0.0.1
+
+# 深度学习框架
+torch>=2.0.0
+torchvision>=0.15.0
+
+# 模型库
+transformers>=4.35.0
+sentence-transformers>=2.2.0
+
+# 图数据库
+neo4j>=5.0.0
+
+# 数据库连接器
+mysql-connector-python>=8.0.0
+
+# 工具库
+python-multipart>=0.0.5
+python-dotenv>=1.0.0
+
+# 可选：用于GPU加速（如果有NVIDIA GPU）
+# torch>=2.0.0+cu118
+# --extra-index-url https://download.pytorch.org/whl/cu118
